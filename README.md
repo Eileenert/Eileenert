@@ -4,4 +4,4 @@
 - 🎇 I started with HTML, CSS, a little JavaScript and then moved on to Python
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on small projects
-- 📫 Contact me with my email
+- 📫 Contact me with my email eileenr10.ert@gmail.com
