@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Eileenert
+- 👀 I’m interested in robotic but unfortunately I have no experience.
+- ☺   I started learning to code on April 10, 2020
+- 🎇 I started with HTML, CSS, a little JavaScript and then moved on to Python
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on small projects
+- 📫 Contact me with my email
